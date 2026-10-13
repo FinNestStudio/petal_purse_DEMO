@@ -31,4 +31,4 @@ The full app adds what needs its own private server: your phone and computer
 kept in step, Apple Pay taps that log themselves on iPhone, and reminders sent
 to your phone. No subscription, pay once.
 
-[Get Petal Purse on Etsy](https://www.etsy.com/shop/FinNestStudio)
+[Get Petal Purse on Etsy](https://www.etsy.com/listing/4583291674?ref=demo)
